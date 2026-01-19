@@ -11,8 +11,15 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,python,r,mysql,excel,git,github,figma,docker&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,r,mysql,git,github,figma,docker&perline=100" />
   </a>
 </p>
 
 <hr style="width:50%; border:1px solid #EC4899; margin:15px auto;">
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mdzxiee">LinkedIn</a> •
+  <a href="mailto:mndzrxnn@gmail.com">Email</a>
+</p>
+
+</div>
