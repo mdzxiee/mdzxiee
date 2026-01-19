@@ -7,6 +7,15 @@
 
 <p align="center">Passionate about turning data into insights, building web applications, managing projects effectively, and developing reliable system.</p>
 
+<hr style="width:50%; border:1px solid #EC4899; margin:15px auto;">
+
 <p align="center"><b style="color:#EC4899;">Languages & Tools</b></p>
 <img src="https://skillicons.dev/icons?i=html,css,php,python,r,mysql,excel&perline=7" />
+
+<hr style="width:50%; border:1px solid #EC4899; margin:15px auto;">
+
+<p align="center"><b style="color:#EC4899;">Data, Project Management & QA</b></p>
+<img src="https://skillicons.dev/icons?i=tableau,git,github,gitlab&perline=7" />
+
+<hr style="width:50%; border:1px solid #EC4899; margin:15px auto;">
 
