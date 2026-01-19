@@ -9,28 +9,9 @@
 
 <hr style="width:50%; border:1px solid #EC4899; margin:15px auto;">
 
-<p align="center"><b style="color:#EC4899;">Languages & Tools</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,python,r,mysql,excel&perline=7" />
-  </a>
-</p>
-
-<hr style="width:50%; border:1px solid #EC4899; margin:15px auto;">
-
-<p align="center"><b style="color:#EC4899;">Data, Project Management & QA</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tableau,git,github,gitlab&perline=7" />
-  </a>
-</p>
-
-<hr style="width:50%; border:1px solid #EC4899; margin:15px auto;">
-
-<p align="center"><b style="color:#EC4899;">Design & DevOps</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,docker&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,r,mysql,excel,git,github,figma,docker&perline=7" />
   </a>
 </p>
 
