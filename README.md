@@ -16,8 +16,7 @@
 <hr style="width:50%; border:1px solid #EC4899; margin:15px auto;">
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mdzxiee" target="_blank">LinkedIn</a> •
-  <a href="mailto:mndzrxnn@gmail.com" target="_blank">Email</a>
+  <a href="https://www.linkedin.com/in/mdzxiee" target="_blank">LinkedIn</a> 
 </p>
 
 </div>
