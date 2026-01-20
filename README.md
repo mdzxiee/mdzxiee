@@ -3,7 +3,7 @@
 <h1>Hi, I'm Roxanne 💻📊</h1>
 <p>Computer Science Student at Saint Louis University Baguio</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=900&color=EC4899&center=true&width=520&lines=Web+Development;Data+Science;Project+Management;Quality+Assurance;System+Analysis;Documentation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=900&color=EC4899&center=true&width=520&lines=Project+Management;Artificial+Intelligence;Data+Analysis;IT+Support;System+Analysis;Documentation" />
 
 <hr style="width:50%; border:1px solid #EC4899; margin:15px auto;">
 
